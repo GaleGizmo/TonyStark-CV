@@ -1,0 +1,28 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color:#1DBBE4;
+    border: 2px solid #aaa;
+ 
+    box-shadow: 0 0 5px 1px #ccc;
+  }
+  img {
+    width: 150px;
+    margin: 20px;
+    border-radius: 20px;
+  }
+  h2 {
+    color: black;
+    text-shadow: 2px 2px rgba(137, 160, 180, 0.241);
+  }
+  a {
+    color: #0b0089;
+    text-decoration: none;
+  }
